@@ -1,5 +1,3 @@
----
-
 # 🔐 Auth Pages em HTML e CSS
 
 Este projeto está sendo desenvolvido como parte da disciplina **Linguagem de Marcação**, ministrada pelo professor **Lucas Corrêa** e com auxilio no spring boot da professora **Fiama Brenda**, que faz parte da disciplina de **Backend**. O objetivo é criar páginas de autenticação — **Login** e **Cadastro** — utilizando **HTML** e **CSS**, com foco na estruturação de layouts e boas práticas de desenvolvimento front-end.
